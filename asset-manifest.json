@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restapi_react/static/css/main.c57b6e6c.css",
+    "main.js": "/restapi_react/static/js/main.f4235bb0.js",
+    "index.html": "/restapi_react/index.html",
+    "main.c57b6e6c.css.map": "/restapi_react/static/css/main.c57b6e6c.css.map",
+    "main.f4235bb0.js.map": "/restapi_react/static/js/main.f4235bb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57b6e6c.css",
+    "static/js/main.f4235bb0.js"
+  ]
+}
